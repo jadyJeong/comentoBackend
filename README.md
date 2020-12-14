@@ -22,9 +22,15 @@
 </ol>
  
  ! QUIZ ! REST API란?/HTTP 통신/브라우저에 URL입력 후 요청,응답
- <ol>
-  (Representational State Transfer)의 약자 REST 이고 이러한 형태로 API 를 만들면 RESTful API 라고함.
- </ol>
+ <p>
+   (Representational State Transfer)의 약자 REST 이고 이러한 형태로 API 를 만들면 RESTful API 라고함.
+  API 에서 전송하는 resource를 uri 로 표현하고, 각 uri 가 하고자 하는걸 http 메소드로 정의해주는 것이다. 
+  이렇게 RESTful 한 구조로 설계된 API 는 엔드포인트 구조만 봐도 얘가 무슨 리소스를 제공하고 어떤일을 하는지
+  직관적으로 보기 쉬워지는 게 RESTful API 의 장점이다.
+  </p>
+  
+
+  
 
   
 
