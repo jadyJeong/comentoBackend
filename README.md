@@ -1,6 +1,3 @@
-# comentoBackend
-<h2>정수빈 / 코멘토 백엔드 프로젝트<h2>
-
 <h3>Java Springboot restAPI sample project.</h3>
 <ol>
 
